@@ -24,11 +24,9 @@ Currently, I’m focused on **frontend web development**, learning tools like HT
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
 - ✉️ Email: yourname@example.com  
- 
-  
+
 
 ---
-
 
 
 Thanks for stopping by! Feel free to explore my repos or reach out to collaborate or connect 🤝
