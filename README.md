@@ -22,7 +22,7 @@ Currently, I’m focused on **frontend web development**, learning tools like HT
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](htts//:linkedin.com/in/yitbarek-welde-3a1a74353)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yitbarek-welde-3a1a74353/)  
 - ✉️ Email: yitbarekwelde658@gmail.com
 
 
