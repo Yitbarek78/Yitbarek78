@@ -20,7 +20,7 @@
 - 📫 How to reach me **📧 yitbarekwelde658@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/yitbarek-welde-3a1a74353/**
 
 - 📄 Know about my experiences [🎓 Computer Science Graduate 💻 Transitioning into professional Frontend Development](🎓 Computer Science Graduate 💻 Transitioning into professional Frontend Development)
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/yitbarekwelde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/yitbarekwelde" height="30" width="40" /></a>
