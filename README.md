@@ -17,8 +17,7 @@
 
 - 💬 Ask me about **HTML, CSS, Advanced CSS concepts, JavaScript, React, Sass, Tailwind CSS**
 
-- 📫 How to reach me **📧 yitbarekwelde658@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/yitbarek-welde-3a1a74353/**
+- 📫 How to reach me **📧 yitbarekwelde658@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/yitbarek-welde-3a1a74353/**
 
 - 📄 Know about my experiences [🎓 Computer Science Graduate 💻 Transitioning into professional Frontend Development](🎓 Computer Science Graduate 💻 Transitioning into professional Frontend Development)
 
@@ -34,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yitbarek78&show_icons=true&locale=en&layout=compact" alt="yitbarek78" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yitbarek78&show_icons=true&locale=en" alt="yitbarek78" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yitbarek78&" alt="yitbarek78" /></p>
