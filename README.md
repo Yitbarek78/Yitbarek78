@@ -13,7 +13,9 @@ HTML · CSS · JavaScript · React · SCSS · Tailwind CSS · Git · Figma
 
 - 💬 Ask me about **HTML, CSS, Advanced CSS concepts, JavaScript, React, Sass, Tailwind CSS**
 
-- 📫 How to reach me **📧 yitbarekwelde658@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/yitbarek-welde-3a1a74353/**
+- 📫 How to reach me
+  - 📧 yitbarekwelde658@gmail.com 
+  - 💼 LinkedIn: https://www.linkedin.com/in/yitbarek-welde-3a1a74353/**
 
 
 <h3 align="left">Connect with me:</h3>
