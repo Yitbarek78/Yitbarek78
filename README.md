@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yitbarek Welde</h1>
 <h3 align="left">💻 A passionate Frontend Web Developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yitbarek78" alt="yitbarek78" /></a> </p>
 
 ### 👨‍💻 About Me
 - Frontend Developer focused on **HTML, CSS, JavaScript, and React**
