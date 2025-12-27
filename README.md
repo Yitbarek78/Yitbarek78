@@ -2,10 +2,14 @@
 <h3 align="left">💻 A passionate Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yitbarek78&label=Profile%20views&color=0e75b6&style=flat" alt="yitbarek78" /> </p>
+
+
 ### 👨‍💻 About Me
 - Frontend Developer focused on **HTML, CSS, JavaScript, and React**
 - Currently improving skills in **React, Modern CSS, SCSS, and Tailwind CSS**
-- Interested in **open-source and beginner-friendly React projects*
+- Interested in **open-source and beginner-friendly React projects**
+
+
 
 - 💬 Ask me about **HTML, CSS, Advanced CSS concepts, JavaScript, React, Sass, Tailwind CSS**
 
