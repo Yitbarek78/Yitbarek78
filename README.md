@@ -5,11 +5,7 @@
 ### 👨‍💻 About Me
 - Frontend Developer focused on **HTML, CSS, JavaScript, and React**
 - Currently improving skills in **React, Modern CSS, SCSS, and Tailwind CSS**
-- Interested in **open-source and beginner-friendly React projects**
-
-### 🛠 Tech Stack
-HTML · CSS · JavaScript · React · SCSS · Tailwind CSS · Git · Figma
-
+- Interested in **open-source and beginner-friendly React projects*
 
 - 💬 Ask me about **HTML, CSS, Advanced CSS concepts, JavaScript, React, Sass, Tailwind CSS**
 
