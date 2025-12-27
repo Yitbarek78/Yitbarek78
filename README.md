@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yitbarek Welde</h1>
 <h3 align="left">💻 A passionate Frontend Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yitbarek78&label=Profile%20views&color=0e75b6&style=flat" alt="yitbarek78" /> </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yitbarek78)](https://github.com/yitbarek78/github-readme-stats)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yitbarek78" alt="yitbarek78" /></a> </p>
-
-
-<h1 align="center">Hi, I'm Yitbarek Welde 👋</h1>
-<h3 align="center">Frontend Web Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yitbarek78&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ### 👨‍💻 About Me
 - Frontend Developer focused on **HTML, CSS, JavaScript, and React**
